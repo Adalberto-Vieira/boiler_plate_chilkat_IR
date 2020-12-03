@@ -1,7 +1,6 @@
 # Boiler Plate for projects using chilkat
 
 This is a boiler plate repository with Chilkat library instaled and configured to be used.
-This is project was deverloped on Linux
 
 ## Requiriments
 
